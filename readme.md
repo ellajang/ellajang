@@ -78,12 +78,19 @@
 <p align="">
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
-- `#Html` `#css`
+`#Html` `#css`
+
+<img src="https://img.shields.io/badge/Back End-487b67?style=flat-circle"/>
+
+`-`
+
 </p>
 
 ### _주요기능 및 설명_
 
-HTML. CSS를 활용하여 프론트엔드를 빌드하여 프로필, 채팅창 등 페이지를 구현하였으며, CSS를 활용하여 디자인과 애니메이션 효과를 입혔습니다. 웹페이지에 있어 가장 기본이 되는 HTML과 CSS를 활용하는 방법을 알게 되었습니다.
+- html을 활용하여 프로필, 채팅창 등 페이지를 구현했습니다.
+- Css를 활용하여 디자인과 애니메이션 효과를 입혔습니다.
+- 웹페이지에 있어 가장 기본이 되는 Html과 Css를 활용하는 방법을 습득했습니다.
 
 #
 
@@ -101,15 +108,20 @@ HTML. CSS를 활용하여 프론트엔드를 빌드하여 프로필, 채팅창 �
 <p align="">
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
-- `#Html,` `#Css,` `#React`
+`#Html,` `#Css,` `#React`
+
+<img src="https://img.shields.io/badge/Back End-487b67?style=flat-circle"/>
+
+`-`
+
+`*api 활용`
 
 </p>
 
 ### _주요기능 및 설명_
 
-HTML. CSS, React를 활용하여 프론트엔드를 빌드하였습니다.
-
-API에서 영화 데이터를 가져왔고, 가져온 영화들의 포스터, 제목, 요약내용, 장르와 같은 데이터들 가져왔습니다.
+- Html, Css, React.js를 활용하여 프론트엔드를 구현했습니다.
+- API 를 통해 영화들의 포스터, 제목, 요약내용, 장르와 같은 데이터들 가져왔습니다.
 
 #
 
@@ -130,7 +142,7 @@ API에서 영화 데이터를 가져왔고, 가져온 영화들의 포스터, �
 <p align="">
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
-- `#Html,` `#Scss,` `#Pug,` `#JavaScript`
+- `#Html,` `#Scss,` `#Pug,` `#JavaScript(Vanila.js)`
 
 <img src="https://img.shields.io/badge/Back End-487b67?style=flat-circle"/>
 
@@ -139,7 +151,11 @@ API에서 영화 데이터를 가져왔고, 가져온 영화들의 포스터, �
 
 ### _주요기능 및 설명_
 
-HTML. SCSS, PUG 그리고 약간의 바닐라JS를 활용하여 프론트엔드를 빌드하였습니다. Templete 엔진인 PUG를 활용하여 작성된 코딩을 HTML로 알맞게 바꿔주게 하였습니다. NodeJS, MongoDB, Express를 활용하여 백엔드를 구축하였습니다. 영상 재생, 댓글 달기, 동영상 검색을 할 수 있으며, 비디오를 녹화하고 업로드 할 수 있도록 했습니다. 로그인 페이지를 만들어 가입과 로그인을 가능하게 했으며, Github RestAPI를 이용하여 인증 및 로그인/로그아웃이 구현되게 하는 방법을 습득하였습니다.
+- HTML. SCSS, PUG 그리고 약간의 vanila.js를 활용하여 프론트엔드를 구현했습니다.
+- Templete 엔진인 PUG를 활용하여 작성된 코딩을 HTML로 변환하는 기능을 사용했습니다.
+- Node.js, Mongodb, Express를 활용하여 백엔드, 데이터베이스를 구현했습니다.
+- 영상 재생, 댓글 달기, 동영상 검색을 할 수 있으며, 비디오를 녹화하고 업로드 할 수 있도록 했습니다.
+- 로그인 페이지를 만들어 가입과 로그인을 가능하게 했으며, Github RestAPI를 이용하여 인증 및 로그인/ 로그아웃이 구현되게 하는 방법을 습득했습니다.
 
 #
 
@@ -163,19 +179,24 @@ HTML. SCSS, PUG 그리고 약간의 바닐라JS를 활용하여 프론트엔드�
 <p align="">
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
-- `#Html,` `#Tailwind Css,` `#React,` `#JavaScript`
+- `#Html,` `#Tailwind CSS,` `#Scss,` `#JavaScrip(Vanila.js)`
 
 <img src="https://img.shields.io/badge/Back End-487b67?style=flat-circle"/>
 
-- `#Python,` `#Django REST Framework,` `#Express,` `REST API,`
+- `#Python(Django)`
+
+`*api 활용`
+
 </p>
 
 ### _주요기능 및 설명_
 
-HTML. TailwindCSS, vanillaJS, Scss를 활용하여 프론트엔드를 빌드하였습니다. TailwindCSS를 활용하여, Css 소스를 Html의 Class 약자처럼 제공하여 별도의 Css파일을 만들지 않으면서 번거롭지 않게 활용할 수 있는 것을 습득하였습니다.
-백엔드에서는 파이썬 코드와 Django를 활용하여 빌드했습니다. Django에는 웹페이지가 기본적으로 갖춰야할 form이 있기 때문에 로그인, 로그아웃, 회원가입 과 관련하여 이미 틀이 구축되어 있어 커스터마이징 하기에 수월하다는 것과 또한 관리자 페이지를 기본적으로 제공하여, 웹사이트의 DB 구조를 파악하여 content 수정, 삭제를 쉽게 할 수 있음을 알게 되었습니다.
-각 페이지의 기능 중 로그인 페이지에서는 Github와 KakaoTalk RestAPI를 이용하여 인증 및 로그인/로그아웃을 구현하는 법을 습득하였고, user, room, reiview 등 내부의 모든 데이터들을 다량으로 넣기 위해 django-seed 모듈을 통하여 test-data를 생성할 수 있는 방법을 알게 되었습니다.
-메세지 페이지에서는 GET,POST를 통해 메세지를 주고 받는 것처럼 구현하도록 하는 방법과 예약 페이지에서 CREATE로 선택한 예약 날짜에 예약되도록 구현하는 방법을 알게 되었습니다.
+- HTML. TailwindCSS, vanillaJS, Scss를 활용하여 프론트엔드를 구현했습니다.
+- TailwindCSS를 활용해 Css소스를 Html의 Class 약자처럼 제공하여 별도의 Css파일을 만들지 않으면서 활용할 수 있는 방법을 습득하였습니다.
+- 백엔드에서는 파이썬 코드와 Django를 활용하여 빌드했습니다. Django에는 웹페이지가 기본적으로 갖춰야할 form이 있기 때문에 로그인, 로그아웃, 회원가입 과 관련하여 이미 틀이 구축되어 있어 커스터마이징 하기에 수월했습니다.
+- Django는 관리자 페이지를 기본적으로 제공하기 때문에 웹사이트의 DB 구조를 파악하여 content 수정, 삭제를 쉽게 할 수 있음을 알게 되었습니다.
+- 각 페이지의 기능 중 로그인 페이지에서는 Github와 KakaoTalk RestAPI를 이용하여 인증 및 로그인/로그아웃을 구현하는 법을 습득하였고, user, room, reiview 등 내부의 모든 데이터들을 다량으로 넣기 위해 django-seed 모듈을 통하여 test-data를 생성할 수 있는 방법을 알게 되었습니다.
+- 메세지 페이지에서는 GET,POST를 통해 메세지를 주고 받는 것처럼 구현하도록 하는 방법과 예약 페이지에서 CREATE로 선택한 예약 날짜에 예약되도록 구현하는 방법을 알게 되었습니다.
 
 #
 
@@ -210,9 +231,11 @@ HTML. TailwindCSS, vanillaJS, Scss를 활용하여 프론트엔드를 빌드하�
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
 - `#Html` `#Scss`
+`*스토리보드 활용`
 </p>
 
 ### _주요기능 및 설명_
 
-교내에서 직접 할 수 없는 번거로운 상황에 놓였을 때 심부름 내용을 해당 앱에 올리면 해당 내용을 보고 심부름을 하는 사람이 심부름 비용을 받고 심부름을 할 수 있는 서비스입니다. 심부름을 하는 사람과 심부름을 시킨 사람은 서로 심부름 후에 평점을 매길 수 있도록 서비스를 구현했습니다.
-HTML. SCSS를 활용하여 프론트엔드를 빌드하였습니다. UI & UX를 깊게 고민하며 스스로 디자인하였고, SCSS를 활용하여 애니메이션 효과를 구현하기도 하였습니다. 프로필 설정과 수정 로그인페이지 문의페이지를 구현하였습니다.
+- 프론트엔드로 빌드하기 위해 만들고 싶은 서비스의 배너, 이미지, 메뉴와 같은 페이지를 직접 미리 사진과 같이 그려서 구상하였으며, 구성 요소 간의 관계에 대해서도 첫번 째 그림과 같이 설계 해놓았습니다.
+- 교내에서 직접 할 수 없는 번거로운 상황에 놓였을 때 심부름 내용을 해당 앱에 올리면 해당 내용을 보고 심부름을 하는 사람이 심부름 비용을 받고 심부름을 할 수 있는 서비스입니다. 심부름을 하는 사람과 심부름을 시킨 사람은 서로 심부름 후에 평점을 매길 수 있도록 서비스를 구현했습니다.
+- Html, Scss를 활용하여 프론트엔드를 빌드하였습니다. UI & UX를 깊게 고민하며 스스로 디자인하였고, SCSS를 활용하여 애니메이션 효과를 구현하기도 하였습니다. 프로필 설정과 수정, 로그인페이지, 문의페이지를 구현하였습니다.
