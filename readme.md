@@ -179,7 +179,7 @@
 <p align="">
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
-- `#Html,` `#Tailwind CSS,` `#Scss,` `#JavaScrip(Vanila.js)`
+- `#Html,` `#Tailwind CSS,` `#Scss,` `#JavaScript(Vanila.js)`
 
 <img src="https://img.shields.io/badge/Back End-487b67?style=flat-circle"/>
 
@@ -197,6 +197,36 @@
 - Django는 관리자 페이지를 기본적으로 제공하기 때문에 웹사이트의 DB 구조를 파악하여 content 수정, 삭제를 쉽게 할 수 있음을 알게 되었습니다.
 - 각 페이지의 기능 중 로그인 페이지에서는 Github와 KakaoTalk RestAPI를 이용하여 인증 및 로그인/로그아웃을 구현하는 법을 습득하였고, user, room, reiview 등 내부의 모든 데이터들을 다량으로 넣기 위해 django-seed 모듈을 통하여 test-data를 생성할 수 있는 방법을 알게 되었습니다.
 - 메세지 페이지에서는 GET,POST를 통해 메세지를 주고 받는 것처럼 구현하도록 하는 방법과 예약 페이지에서 CREATE로 선택한 예약 날짜에 예약되도록 구현하는 방법을 알게 되었습니다.
+
+#
+
+## [Nwitter](https://github.com/ellajang/202211_Nwitter_Clone)
+
+</br>
+<p align="center">
+<img src="img/nwitter/nwitter.gif" width="" height="370"/>
+</p>
+
+### _제작시기 : 2022.11_
+
+### _사용 스택_
+
+<p align="">
+<img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
+
+- `#Html,` `#CSS,` `#JavaScript(React.js)`
+
+<img src="https://img.shields.io/badge/Back End-487b67?style=flat-circle"/>
+
+- `#Firebase,` `#Node.Js`
+
+</p>
+
+### _주요기능 및 설명_
+
+- HTML, CSS, ReactJS를 활용하여 프론트엔드를 구현했습니다.
+- Firebase를 연동시켜 데이터베이스 서버를 구축했습니다. 인증기능을 통하여 로그인 과정을 담당합니다. google과 github계정 로그인 연동을 시켰으며, 회원가입하여 Firebase에 가입 정보를 저장하도록 했습니다.
+- React를 활용할 떄 Hooks 라이브러리를 활용하여 코드를 작성했습니다.
 
 #
 
