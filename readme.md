@@ -142,7 +142,7 @@
 <p align="">
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
-- `#Html,` `#Scss,` `#Pug,` `#JavaScript(Vanila.js)`
+- `#JavaScript(Vanila.js),` `#Html,` `#Scss,` `#Pug`
 
 <img src="https://img.shields.io/badge/Back End-487b67?style=flat-circle"/>
 
@@ -179,7 +179,7 @@
 <p align="">
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
-- `#Html,` `#Tailwind CSS,` `#Scss,` `#JavaScript(Vanila.js)`
+- `#JavaScript(Vanila.js),` `#Html,` `#Tailwind CSS,` `#Scss`
 
 <img src="https://img.shields.io/badge/Back End-487b67?style=flat-circle"/>
 
@@ -214,7 +214,7 @@
 <p align="">
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
-- `#Html,` `#CSS,` `#JavaScript(React.js)`
+- `#JavaScript(React.js),` `#Html,` `#CSS`
 
 <img src="https://img.shields.io/badge/Back End-487b67?style=flat-circle"/>
 
@@ -226,13 +226,13 @@
 
 - HTML, CSS, ReactJS를 활용하여 프론트엔드를 구현했습니다.
 - Firebase를 연동시켜 데이터베이스 서버를 구축했습니다. 인증기능을 통하여 로그인 과정을 담당합니다. google과 github계정 로그인 연동을 시켰으며, 회원가입하여 Firebase에 가입 정보를 저장하도록 했습니다.
-- React를 활용할 떄 Hooks 라이브러리를 활용하여 코드를 작성했습니다.
+- React를 활용할 때 Hooks 라이브러리를 활용하여 코드를 작성했습니다.
 
 #
 
 > ## Side Project
 
-## [Errand-App](https://github.com/ellajang/202210_Errand_App)
+## [Errand-App](https://github.com/ellajang/202212_Errand_Cooperation)
 
 </br>
 
@@ -245,7 +245,7 @@
 
 #### _자세히_
 
-프론트엔드로 빌드하기 위해 만들고 싶은 서비스의 배너, 이미지, 메뉴와 같은 페이지를 직접 미리 사진과 같이 그려서 구상하였으며, 구성 요소 간의 관계에 대해서도 첫번 째 그림과 같이 설계 해놓았습니다.  
+프론트엔드로 빌드하기 위해 만들고 싶은 서비스의 배너, 이미지, 메뉴와 같은 페이지를 협업을 통해 첨부 사진과 같이 그려서 구상하였으며, 구성 요소 간의 관계에 대해서도 첫번 째 그림과 같이 설계 했습니다.  
 </br>
 
 <p align="center">
@@ -253,19 +253,37 @@
 <img src="img/errand/1.gif" width="" height="370"/>
 </p>
 
-### _제작시기 : 2022.10_
+#### _자세히_
+
+프론트엔드로 빌드하기 위해 먼저 html과 css를 통해 전체적인 틀을 먼저 만들었습니다.
+
+<p align="center">
+<img src="img/errand/first.png" width="200" height="370"/>
+<img src="img/errand/2page.png" width="200" height="370"/>
+<img src="img/errand/3.gif" width="" height="370"/>
+</p>
+
+#### _자세히_
+
+전체적인 틀을 만든 후 javascript로 동작하는 페이지를 구현했습니다.
+
+### \_제작시기 : 2022.10 ~ 2022.11
 
 ### _사용 스택_
 
 <p align="">
 <img src="https://img.shields.io/badge/Front End-4781d1?style=flat-circle"/>
 
-- `#Html` `#Scss`
+- `#JavaScript(ReactJS)` `#Html` `#css,` `#NodeJS`
 `*스토리보드 활용`
 </p>
 
 ### _주요기능 및 설명_
 
-- 프론트엔드로 빌드하기 위해 만들고 싶은 서비스의 배너, 이미지, 메뉴와 같은 페이지를 직접 미리 사진과 같이 그려서 구상하였으며, 구성 요소 간의 관계에 대해서도 첫번 째 그림과 같이 설계 해놓았습니다.
 - 교내에서 직접 할 수 없는 번거로운 상황에 놓였을 때 심부름 내용을 해당 앱에 올리면 해당 내용을 보고 심부름을 하는 사람이 심부름 비용을 받고 심부름을 할 수 있는 서비스입니다. 심부름을 하는 사람과 심부름을 시킨 사람은 서로 심부름 후에 평점을 매길 수 있도록 서비스를 구현했습니다.
-- Html, Scss를 활용하여 프론트엔드를 빌드하였습니다. UI & UX를 깊게 고민하며 스스로 디자인하였고, SCSS를 활용하여 애니메이션 효과를 구현하기도 하였습니다. 프로필 설정과 수정, 로그인페이지, 문의페이지를 구현하였습니다.
+
+- 프론트엔드로 빌드하기 위해 만들고 싶은 서비스의 배너, 이미지, 메뉴와 같은 페이지를 직접 미리 사진과 같이 그려서 구상하였으며, 구성 요소 간의 관계에 대해서도 첫번째 그림과 같이 설계 해놓았습니다.
+
+- Html, Css를 활용하여 프론트엔드를 빌드하였습니다. UI & UX를 깊게 고민하며 스스로 디자인하였고, CSS를 활용하여 애니메이션 효과를 구현하기도 하였습니다. 프로필 설정과 수정, 로그인페이지, 문의페이지를 구현하였습니다.
+
+- 먼저 Html, Css를 활용하여 전체적인 틀을 구현 한 후 협업을 통해 추가적인 기능을 상의하여 Javascript를 통해 동작하는 페이지를 구현하였습니다. 서버와 DB를 구현하기 위해서 임의의 데이터를 만들어 JSON파일에 업로드 하였습니다. JSON파일을 받기 위해 NodeJS를 활용했습니다. JS를 활용할 때 ReactJS의 Hooks 라이브러리, fetch를 활용하여 빌드하였습니다.
