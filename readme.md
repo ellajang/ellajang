@@ -47,17 +47,18 @@
 
 > Kokoa Talk App
 
-- kakaotalk clone coding
-  > Movie Web page
-- Movie page clone coding
-  > Wetube Page
-- Youtube clone coding
-  > Nbnb Page
-- Airbnb clone coding
+> Movie Web page
 
-  
+> Movie page clone coding
 
-- Side Project
- > developer Blog
- > Portfolio 
+> Wetube Page
+
+> Nbnb Page
+
+## Side Project
+
+> developer Blog
+
+> Portfolio 
+
 > Errand-App
