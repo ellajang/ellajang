@@ -55,7 +55,7 @@
 
 > Nbnb Page
 
-## Side Project
+## _📌 Side Project_
 
 > developer Blog
 
