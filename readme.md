@@ -10,9 +10,7 @@
 
 ## _📌 About Me_
 
-- 생년월일 : 1996.02.27
 - 이메일 : 3lla.jang@gmail.com
-- 학력 : 연세대학교 미래캠퍼스 경제학과 졸업
 
 ## _📌 Skills_
 
@@ -42,20 +40,6 @@
   </p>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellajang&layout=compact)](https://github.com/ellajang/github-readme-stats)
-
-## _📌 Project_
-
-> Kokoa Talk App
-
-> Movie Web page
-
-> Movie page clone coding
-
-> Wetube Page
-
-> Nbnb Page
-
-> Twitter App
 
 ## _📌 Side Project_
 
