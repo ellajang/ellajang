@@ -18,14 +18,7 @@
       <img src="https://img.shields.io/badge/pug-white?style=flat-square&logo=pug&logoColor=brown"/>
       
   </p>
-- BackEnd
-  <p align="left">
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/mongoDB-3a2b01?style=flat-square&logo=mongoDB&logoColor=green"/>
-      
-  </p>
+
 - Version Control
   <p align="left">
       <img src="https://img.shields.io/badge/git-white?style=flat-square&logo=git&logoColor=e44c31"/>
