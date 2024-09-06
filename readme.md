@@ -1,8 +1,6 @@
 <p align='center'>📌 Introduction  
 <p align='center'>꾸준히 성장하기 위해 노력하는 프론트엔드 개발자 장정은 입니다.  </p>
 
-# JUNGEUN JANG
-
 ## _📌 About Me_
 
 - 이메일 : 3lla.jang@gmail.com
