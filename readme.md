@@ -1,10 +1,5 @@
-<p align='center'>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a5acdf&height=320&section=header&text=JungEun%20Jang&fontSize=70&animation=fadeIn&fontAlignY=33&desc=웹%20프론트엔드%20개발자%20장정은의%20포트폴리오%20입니다&descAlignY=55&descAlign=50" />
-</p>
-
 <p align='center'>📌 Introduction  
-<p align='center'>새로운 기술과 빠르게 변하는 웹개발 트랜드 속에서,
-<p align='center'>사용자 입장을 고려하기 위해 새로운 기술과 트렌드를 익혀 꾸준히 성장하기 위해 노력하는 프론트엔드 개발자 장정은 입니다.  </p>
+<p align='center'>꾸준히 성장하기 위해 노력하는 프론트엔드 개발자 장정은 입니다.  </p>
 
 # JUNGEUN JANG
 
